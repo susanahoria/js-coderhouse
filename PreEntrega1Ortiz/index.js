@@ -42,8 +42,6 @@ const creditCalculator = (fullName, amount, month) => {
   }
 };
 
-// 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
-
 const showData = () => {
   const fullName = inputFullName.value;
   const amount = Number(inputAmount.value);
